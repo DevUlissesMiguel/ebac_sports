@@ -20,7 +20,7 @@ export const Capa = styled.div`
 
 export const Prices = styled.div`
   margin: 16px 0;
-  color: #fff;
+  color: #000000;
 
   small {
     font-size: 16px;
